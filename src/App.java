@@ -10,7 +10,7 @@ public class App {
             System.out.println("Nome: " + optionalNome.get());
         }
 
-        // Criar um Optional vazio
+        // Criar um Optional vazio 3
         Optional<String> optionalVazio = Optional.empty();
 
         // Usar orElse para fornecer um valor padrão se ausente
